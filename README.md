@@ -6,8 +6,12 @@ The dataset contains categorical and numerical variables, with the majority of v
 
 # Table of Contents
 1. Notebook:
-- [Water Potability Prediction.ipynb](https://github.com/Xue-Liu-Alexia/Water_Potability_Prediction_Python_Model/blob/main/Water%20Potability%20Prediction.ipynb)
+- [Laptop Price Prediction.ipynb](https://github.com/Xue-Liu-Alexia/Laptop-Price-Prediction_Python-Model/blob/main/Laptop%20Price%20Prediction.ipynb)
 2. Presentation:
--  [SWEETVIZ_REPORT.html](https://github.com/Xue-Liu-Alexia/Water_Potability_Prediction_Python_Model/blob/main/SWEETVIZ_REPORT.html)
-3. Data Sets:
-- [water_potability.csv](https://github.com/Xue-Liu-Alexia/Water_Potability_Prediction_Python_Model/blob/main/water_potability.csv)
+- [Laptop Price Prediction Presentation.pptx](https://github.com/Xue-Liu-Alexia/Laptop-Price-Prediction_Python-Model/blob/main/Laptop%20Price%20Prediction%20Presentation.pptx)
+3. Executive Summary:
+- [Laptop Price Prediction Executive Summary.pdf](https://github.com/Xue-Liu-Alexia/Laptop-Price-Prediction_Python-Model/blob/main/Laptop%20Price%20Prediction%20Executive%20Summary.pdf)
+4. Poster:
+- [Laptop Price Prediction Poster.png](https://github.com/Xue-Liu-Alexia/Laptop-Price-Prediction_Python-Model/blob/main/Laptop%20Price%20Prediction%20Poster.png)
+5. Data Sets:
+- [laptopData.csv](https://github.com/Xue-Liu-Alexia/Laptop-Price-Prediction_Python-Model/blob/main/laptopData.csv)
